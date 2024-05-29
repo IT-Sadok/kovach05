@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BOhMSjzE539SYkUBDgzl9b+Gr1+/uVK0Q+LUxG6KvzWkcTQXF6tQfzakGUEYIyMap0mXc94DseC5NupHl6FbeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksk\\RiderProjects\\TrainerBookingSim\\TrainerBookingSim\\TrainerBookingSim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksk\\.nuget\\packages\\csvhelper\\32.0.3\\csvhelper.32.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
